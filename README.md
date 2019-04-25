@@ -1,24 +1,5 @@
-# README
+# Reserve ton docteur
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Partie 1 - Exercice de mise en relation de BDD entre des patients, des docteurs au travers d'un rendez-vous. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Partie 2 - Implémente les villes de chaque patients, les villes de chaques docteurs ainsi que celles les rendez-vous.
